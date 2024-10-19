@@ -1,0 +1,17 @@
+References
+● Hochreiter, Sepp, and Jürgen Schmidhuber. "Long short-term memory." Neural computation 9.8 (1997): 1735-1780. (The original paper on LSTMs;
+the forget gate was added later)
+● http://colah.github.io/posts/2015-08-Understanding-LSTMs/ (A great blog post introducing LSTMs)
+● Lipton, Zachary C., John Berkowitz, and Charles Elkan. "A critical review of recurrent neural networks for sequence learning." (A nice review of
+RNNs, including LSTMs, bidirectional RNNs and state-of-the-art applications)
+● https://deeplearning4j.org/lstm (Another nice introduction to recurrent networks and LSTMs, with code examples - Deeplearning4j is a deep
+learning platform for Java and Scala)
+● Sutskever, I., Vinyals, O., & Le, Q. (2014). Sequence to sequence learning with neural networks. Advances in Neural Information. (A paper that
+proposes two LSTMs (one for encoding, one for decoding) for machine translation)
+● Graves, A., Mohamed, A., & Hinton, G. (2013). Speech recognition with deep recurrent neural networks. Acoustics, Speech and Signal. (A paper
+that proposes deep bidirectional LSTMs for speech recognition)
+● Karpathy, Andrej, and Li Fei-Fei. "Deep visual-semantic alignments for generating image descriptions." Proceedings of the IEEE Conference on
+Computer Vision and Pattern Recognition. 2015. (Paper introducing image captioning using ConvNet + LSTM)
+● https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714 (Neat LSTM explanation diagrams)
+● http://deeplearning.net/tutorial/lstm.html (Tutorial applying LSTM to sentiment analysis)
+● https://xkcd.com/1093

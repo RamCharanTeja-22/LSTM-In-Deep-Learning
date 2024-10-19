@@ -1,0 +1,7 @@
+Demos
+● Handwriting generation demo: 
+http://www.cs.toronto.edu/~graves/handwriting.html
+● Music composition:
+• http://www.hexahedria.com/2015/08/03/composing-music-withrecurrent-neur al-networks/
+● Image captioning and other stuff: 
+http://karpathy.github.io/2015/05/21/rnn-effectiveness
